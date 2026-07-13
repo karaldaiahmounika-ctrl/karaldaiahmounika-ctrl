@@ -24,7 +24,6 @@
 ## 🌐 Connect With Me
 
 -   LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
--   GitHub: https://github.com/YOUR_USERNAME
 
 ## 💻 Tech Stack
 
